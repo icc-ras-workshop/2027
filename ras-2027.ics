@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICC 2027 RAS Workshop//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:submission-deadline@icc-ras-workshop-2027
+DTSTAMP:20261125T000000Z
+SEQUENCE:0
+DTSTART:20261221T235900Z
+DTEND:20261221T235900Z
+SUMMARY:ICC 2027 RAS workshop: submission deadline
+URL:https://icc-ras-workshop.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:notification@icc-ras-workshop-2027
+DTSTAMP:20261125T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:ICC 2027 RAS workshop: reviews and notification
+URL:https://icc-ras-workshop.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop@icc-ras-workshop-2027
+DTSTAMP:20261125T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:ICC 2027 RAS workshop (half day\, session to be announced)
+LOCATION:IIT Kharagpur\, Kharagpur\, West Bengal\, India
+URL:https://icc-ras-workshop.github.io/2027/
+END:VEVENT
+END:VCALENDAR
